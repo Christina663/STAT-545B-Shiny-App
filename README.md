@@ -7,9 +7,9 @@ I picked Option B from the assignment - to make my own Shiny app.
 
 ## Repository structure:
 This repository contains:
-Steam Games Shiny App - folder containing source code app.R
-README.md 
-.rproj file
++ Steam Games Shiny App - folder containing source code app.R
++ README.md 
++ STAT-545B-Shiny-App.Rproj file
 
 ## Description of the App:
 The app demonstrates the number of games released on Steam each year. The histogram shows a trend of gradual increased number of games as time goes by, 
